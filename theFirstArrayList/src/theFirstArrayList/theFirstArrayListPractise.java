@@ -33,19 +33,6 @@ public class theFirstArrayListPractise {
 		//System.out.println(theList.remove(3));
 		//theList.size();  (same as the .length for other object)
 		
-		ArrayList<String> band = new ArrayList<String>();
-
-		
-		band.add("Lindsey");
-	  	band.add("Mick");
-		band.add("Stevie");
-		band.add("Peter");
-		band.remove(3);
-		band.add(2, "Christine");
-
-
-		System.out.println(band);
-
-		
+		//Finished ArrayLisy lab 1
 	}
 }
